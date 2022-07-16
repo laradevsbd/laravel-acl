@@ -1,0 +1,19 @@
+{
+    "name": "laradevsbd/acl",
+    "description": "Laradevsbd ACL adds role based permissions  System for a secure Laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Laradevsbd\\Acl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nurkarim",
+            "email": "nurkarim772@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
